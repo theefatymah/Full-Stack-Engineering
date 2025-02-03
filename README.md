@@ -1,38 +1,6 @@
 # Full-Stack-Engineering
 The repository defines my learning journey through the Full-Stack Engineering course. It includes all the essential topics needed to become a skilled full-stack developer, starting from fundamental web development concepts to advanced areas such as deployment, CI/CD, and web security
 
-# Course Content
-
-1.(Intro to Web Development)[01_Intro to Web Dev/intro to web dev.md]
-
-2. Computer Networking Basics
-        History Of Computer Network
-Frontend Development
-HTML
-CSS
-JavaScript
-Physics and Math in Programming
-3D Animation in Web
-Frontend Library
-Backend Development
-Linux Fundamentals
-HTTP Basics
-Node.js and Express
-JavaScript Under the Hood
-API Development
-Databases
-TypeScript
-NEXT.js
-Redis
-Web Sockets
-Web RTC
-Full-Stack Projects
-CI/CD
-Web Security
-Deployment
-Advanced Topics
-
-
 # My Full-Stack Development Journey🚀
 Welcome to my personal learning space! This repository is a reflection of my journey through the Full-Stack Engineering course, where I document everything I learn, build, and overcome. Here’s what you’ll find:
 
