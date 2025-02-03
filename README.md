@@ -2,7 +2,7 @@
 The repository defines my learning journey through the Full-Stack Engineering course. It includes all the essential topics needed to become a skilled full-stack developer, starting from fundamental web development concepts to advanced areas such as deployment, CI/CD, and web security
 
 # Course Content
-1.[Intro to Web Development](01_Intro to Web Dev)
+1.(Intro to Web Development)[01_Intro to Web Dev]
 Computer Networking Basics
 History Of Computer Network
 Frontend Development
