@@ -1,7 +1,7 @@
 # Full-Stack-Engineering
 The repository defines my learning journey through the Full-Stack Engineering course. It includes all the essential topics needed to become a skilled full-stack developer, starting from fundamental web development concepts to advanced areas such as deployment, CI/CD, and web security
 
-# My Full-Stack Development Journey
+# My Full-Stack Development Journey🚀
 Welcome to my personal learning space! This repository is a reflection of my journey through the Full-Stack Engineering course, where I document everything I learn, build, and overcome. Here’s what you’ll find:
 
 🔹 Structured breakdown of key topics, from the basics to advanced concepts.
