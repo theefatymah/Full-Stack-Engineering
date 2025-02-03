@@ -23,4 +23,4 @@ Your time here means a lot! Keep coding, keep creating, and let’s make an impa
 
 Happy Coding! 💡
 
-— Mah Noor Fatima | Software Engineer | MERN Stack Developer
+— [Mah Noor Fatima](https://www.linkedin.com/in/theefatymah/) | Software Engineer | MERN Stack Developer
