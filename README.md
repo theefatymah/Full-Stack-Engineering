@@ -4,6 +4,8 @@ The repository defines my learning journey through the Full-Stack Engineering co
 # Course Content
 1. [Intro To Web Dev](01_IntroToWebDev/WebDev.md)  
 2. [Computer Networking](02_ComputerNetworking/01_IntoToComputerNetworking) 
+3. [FrontEnd](03_FrontEnd/Frontend_Intro) 
+   
 # My Full-Stack Development Journey🚀
 Welcome to my personal learning space! This repository is a reflection of my journey through the Full-Stack Engineering course, where I document everything I learn, build, and overcome. Here’s what you’ll find:
 
