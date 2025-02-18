@@ -15,4 +15,4 @@ JavaScript engines are typically developed by web browser vendors, and every maj
 
 # V8 Engine
 
-V8 is a JavaScript and WebAssembly engine developed by Google for its Chrome browser. V8 is free and open-source software that is part of the Chromium project and also used separately in non-browser contexts, notably the <em>Node.js</em> runtime system.
+V8 is a JavaScript and WebAssembly engine developed by Google for its Chrome browser. V8 is free and open-source software that is part of the [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser)) project and also used separately in non-browser contexts, notably the <em>Node.js</em> runtime system.
